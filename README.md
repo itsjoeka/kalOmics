@@ -225,8 +225,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 - [ ] Long-read assembly support (PacBio, Nanopore)
 - [ ] Web interface for small datasets
 
-# References
 
 # contributors
-
-# Biodata Analystics and Comutational genomics
+- Andrewa Adu
